@@ -1,0 +1,46 @@
+
+.home-card {
+    width: 320px;
+    height: 320px;
+    
+}
+
+.mdl-card_title {
+    background: bottom right 15% #fff;
+}
+
+
+
+.margin-top {
+    margin-top:25%;
+}
+
+.mdl-card__title {
+  color: #fff;
+  background:
+    /* url('../assets/demos/dog.png') */ bottom right 15% no-repeat #46B6AC;
+}
+
+
+.demo-card-square {
+    width: 320px;
+  height: 320px;
+}
+
+.m_left {
+    margin-left: 5%;
+}
+
+.head_text {
+    font-family: 'VT323', monospace;
+}
+
+.title {
+    text-align: center;
+    
+}
+
+.para {
+    margin-left: 10%;
+    margin-right: 10%;
+}
